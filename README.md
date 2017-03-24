@@ -13,7 +13,7 @@ Headless Chrome driver based on Python
 
  - 2.7 - based on Python 2.7
  - 3.5 - based on Python 3.5
- - latest (default version, same as 2.7)
+ - latest (default version, same as 3.5)
 
 ### Usage:
 
